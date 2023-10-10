@@ -16,9 +16,9 @@ Here are features of the game that make it fun
 - Easy to play, even suitable for kids
 - Difficulty increases after dodging some traps
 
-[![Game Trailer](https://img.youtube.com/vi/rEhHE6T1gbs/0.jpg)](https://www.youtube.com/watch?v=rEhHE6T1gbs)
+[![Game Trailer](https://img.youtube.com/vi/zXuzK0kZjoI/0.jpg)](https://www.youtube.com/watch?v=zXuzK0kZjoI)
 
-https://www.youtube.com/watch?v=rEhHE6T1gbs
+https://www.youtube.com/watch?v=zXuzK0kZjoI
 
 
 ## Get Started
