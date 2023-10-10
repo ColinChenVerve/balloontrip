@@ -4,7 +4,7 @@ Balloon Trip is an Angry bird style game inspired by a retro game "balloon Fight
 
 You control a cute husky by taping your finger on the screen. The cute “flying” husky is lifted by two balloons, and you need to avoid toucans, sharks, narwhals, and many other crazy traps. You can also pop enemy’s balloons.  brought to you by Volckano, a company dedicated to developing innovative applications, games, and websites.
 
-[![Balloon Trip](https://balloontrip.vercel.app/balloonimg3.png)](https://balloontrip.vercel.app)
+[![Balloon Trip](https://balloontrip.vercel.app/balloonimg1.png)](https://balloontrip.vercel.app)
 
 
 ## Game Features
